@@ -3,4 +3,4 @@
 A simple ReactJS website(UI only for now) with modern styles about GPT3(mostly generic text).
 
 ## Live preview:
-https://filip-portfolio.000webhostapp.com/gpt3-jsm/
+https://fcuric.westeurope.cloudapp.azure.com/todo/gpt3-jsm/
